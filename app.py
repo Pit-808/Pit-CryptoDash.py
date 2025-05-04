@@ -1,7 +1,4 @@
 # app.py – Haupt-Streamlit-Datei
-pip install pytrends
-
-
 import streamlit as st
 from pytrends.request import TrendReq
 import requests
